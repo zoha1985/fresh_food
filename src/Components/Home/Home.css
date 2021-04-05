@@ -1,0 +1,38 @@
+/* .controlNavLeft Link{
+    display: inline;
+    font-weight: bold;
+    padding: 5px 20px;
+}
+.controlNavLeft ul li a{
+    text-decoration: none;
+    color: black;
+} */
+.customeCode{
+    background-color: rgb(2, 97, 2);
+
+}
+.controlNavLeft {
+    color: #fff;
+}
+
+a {
+    padding: 5px 20px;
+    font-weight: bold;
+    color: #000;
+    text-decoration: none;
+}
+a:hover {
+    color: rgb(3, 82, 20);
+}
+.cardContri{
+    /* border: 1px solid gray; */
+    box-shadow: 5px 5px 10px gray;
+    padding: 5px 5px;
+    margin: 3px;
+}
+
+.controlColum{
+    display: flex;
+    float: left;
+    width: 33%;
+}

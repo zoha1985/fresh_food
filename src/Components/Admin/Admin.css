@@ -1,0 +1,22 @@
+.admincontrol{
+    color: #fff;
+ 
+}
+.mainContainer{
+    height: 700px;
+    padding: 10px;
+    border-radius: 5px;
+}
+.admincontrol:hover{
+    color: rgb(3, 83, 20);
+}
+a.admincontrol{
+    text-decoration: none;
+}
+.addButtoncontrol{
+    margin: 20px 0px 0px 40px;
+    padding: 0px 18px;
+}
+a.addButtoncontrolA{
+    text-decoration: none;
+}

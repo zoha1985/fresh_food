@@ -1,0 +1,22 @@
+.card {
+  width: 31% ;
+  float: left ;
+  margin: 5px 5px;
+}
+
+
+
+@media only screen and (min-width: 601px) {
+    .cardControl
+    {
+        width: 32%;
+    }
+  }
+  
+
+  @media only screen and (max-width: 600px) {
+    .cardControl
+    {
+        width: 100%;
+    }
+  }
